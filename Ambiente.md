@@ -21,7 +21,7 @@ Para instalar Anaconda, descárgue la versión para Python 3.7 correspondiente a
 
 Para verificar que ha instalado correctamente la distribución o para actualizar la distribución a las últimas versiones, abra una terminal, y ejecute los comandos:
 
-\\$ conda update conda
+\$ conda update conda
 
 \$ conda update anaconda
 
@@ -33,7 +33,7 @@ Links adicionales:
 
 Por defecto, Anaconda no incluye el intérprete y los paquetes principales de R, así que debemos instalarlos. Como ya tenemos conda, lo utilizamos:
 
-\\$ conda install r-base r-essentials
+\$ conda install r-base r-essentials
 
 - [Lista de paquetes disponibles para R](https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
 
@@ -43,7 +43,7 @@ Los notebooks de Jupyter son una herramienta de código abierto que permiten cre
 
 Para ejecutar un notebook de Jupyter, ir al directorio donde existe el notebook (la extensión de los notebooks es .ipynb) y ejecutar
 
-\\$ jupyter notebook
+\$ jupyter notebook
 
 Esto creará un servidor, y probablemente abra un link en su navegador para poder acceder a una visión de los directorios con los archivos. Si no lo abre, el notebook queda corriendo en esta dirección local:
 
