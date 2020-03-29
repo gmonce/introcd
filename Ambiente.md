@@ -61,6 +61,6 @@ Un aspecto interesante de los Notebooks de Jupyter es que github los visualiza a
 
 ### Cuarto paso: verificar que podemos programar en R y Python en nuestros notebooks.
 
-Para esto, utilice Jupyter Lab, y cree un nuevo documento. La interfaz deberá ofrecerle la opción de crear un notebook de R o de Python. En el mismo directorio que este documento están los Notebooks [HelloR.ipynb](HelloR.ipynb) y[HelloPython.ipynb](HelloPython.ipynb). Intente abrirlos y ejecutar el código. Si no tiene errores, usted tiene seguramente el ambiente configurado para empezar a trabajar.
+Para esto, utilice Jupyter Lab, y cree un nuevo documento. La interfaz deberá ofrecerle la opción de crear un notebook de R o de Python. En el mismo directorio que este documento están los Notebooks [HelloR.ipynb](HelloR.ipynb) y [HelloPython.ipynb](HelloPython.ipynb). Intente abrirlos y ejecutar el código. Si no tiene errores, usted tiene seguramente el ambiente configurado para empezar a trabajar.
 
 **Bienvenidos al curso de Introducción a la Ciencia de Datos** 
