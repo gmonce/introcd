@@ -53,6 +53,8 @@ La nueva interfaz para los notebooks se llama Jupyter Lab, y presenta varias inn
 
 http://localhost:8888/lab
 
+(también es posible, para ejecutar los notebooks bajo Jupyter lab, ejecutar directamente "jupyter lab" en la línea de comandos al comienzo).
+
 Los notebooks de Jupyter presentan varias facilidades para programar en entornos interactivos, permitiendo documentos "vivos", donde es posible inspeccionar el ambiente de desarrollo, realizar pruebas, documentar (utilizando los lenguaajes [Markdown](https://opensource.com/article/19/9/introduction-markdown) e incluso [fórmulas](https://www.overleaf.com/learn/latex/mathematical_expressions) al estilo LaTeX), incluir imágenes, etc. 
 
 Por más información, consultar la [documentación](https://jupyter-notebook.readthedocs.io/en/stable/) o uno de los miles de tutoriales que hay en Internet. 
